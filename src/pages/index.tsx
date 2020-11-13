@@ -4,7 +4,7 @@ const App: React.FC = () => {
   return (
     <h1>
       Para acessar os celulares disponíveis para a experiência acesse:
-      quaq.dev/incepa-devices
+      quaq.dev/roca-devices
     </h1>
   );
 };
