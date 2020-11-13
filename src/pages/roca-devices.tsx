@@ -10214,7 +10214,7 @@ const IncepaDevices: React.FC = () => {
     <div className="styled-container">
       <input
         className="styled-input"
-        placeholder="Pesquise sua marca de telefone aqui..."
+        placeholder="Pesquise seu modelo de telefone aqui..."
         value={input}
         onChange={(e) => setInput(e.target.value)}
       />
