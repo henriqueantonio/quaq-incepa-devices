@@ -6542,10 +6542,6 @@ const rows: Data[] = [
   },
   {
     marca: "Samsung",
-    modelo: "Galaxy J8",
-  },
-  {
-    marca: "Samsung",
     modelo: "Galaxy S4",
   },
   {
